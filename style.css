@@ -1,0 +1,41 @@
+.whatsapp-logo {
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+    width: 70px;
+    height: 70px;
+    transition: transform 0.2s ease-in-out;
+    -webkit-transition: transform 0.2s ease-in-out;
+    -moz-transition: transform 0.2s ease-in-out;
+    -ms-transition: transform 0.2s ease-in-out;
+    -o-transition: transform 0.2s ease-in-out;
+}
+
+.container99 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-align: center;
+  }
+  h1 {
+    font-size: 4rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+  }
+  p {
+    font-size: 1.5rem;
+    font-weight: 400;
+  }
+
+  .bg-image {
+    background-image: url('/imgs/Fondomigym2.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+
+
+.bg-image2 {
+  background-image: url('/imgs/bgcompleto.jpg');
+  background-size: cover;
+
+}
